@@ -1,0 +1,14 @@
+C:\Users\dmitr\source\repos\exam2\exam2\bin\Debug\exam2.exe.config
+C:\Users\dmitr\source\repos\exam2\exam2\bin\Debug\exam2.exe
+C:\Users\dmitr\source\repos\exam2\exam2\bin\Debug\exam2.pdb
+C:\Users\dmitr\source\repos\exam2\exam2\obj\Debug\exam2.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\exam2\exam2\obj\Debug\exam2.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\exam2\exam2\obj\Debug\exam2.exe
+C:\Users\dmitr\source\repos\exam2\exam2\obj\Debug\exam2.pdb
+C:\Users\77\source\repos\exam2\exam2\bin\Debug\exam2.exe.config
+C:\Users\77\source\repos\exam2\exam2\bin\Debug\exam2.exe
+C:\Users\77\source\repos\exam2\exam2\bin\Debug\exam2.pdb
+C:\Users\77\source\repos\exam2\exam2\obj\Debug\exam2.csprojAssemblyReference.cache
+C:\Users\77\source\repos\exam2\exam2\obj\Debug\exam2.csproj.CoreCompileInputs.cache
+C:\Users\77\source\repos\exam2\exam2\obj\Debug\exam2.exe
+C:\Users\77\source\repos\exam2\exam2\obj\Debug\exam2.pdb
